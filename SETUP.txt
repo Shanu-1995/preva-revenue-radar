@@ -1,0 +1,21 @@
+PREVA Revenue Radar - GitHub-only starter
+
+Files to copy to the ROOT of your separate preva-revenue-radar repository:
+  config.json
+  scripts/monitor.py
+  .github/workflows/daily.yml
+
+Do not copy into your existing PREVA website repository.
+
+1. Copy these three paths into the separate repo using File Explorer.
+2. Open GitHub Desktop, verify CURRENT REPOSITORY is preva-revenue-radar.
+3. Commit changes and Push origin.
+4. On GitHub repository, open Actions > PREVA Daily Public Monitor > Run workflow.
+5. After successful run, Settings > Pages > Deploy from a branch > main > /docs > Save.
+6. Wait for GitHub Pages deployment and open the URL shown there.
+
+The monitor checks public HTML and reports text changes; it does not measure sales.
+If robots.txt is unavailable, it skips the site rather than assuming permission.
+Competitors must be added as verified URLs in config.json.
+Scheduled GitHub workflow runs daily at 13:00 UTC (8 AM EST / 9 AM EDT).
+GitHub scheduled runs may be delayed. Public Pages dashboard is not private.

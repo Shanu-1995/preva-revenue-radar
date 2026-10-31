@@ -1,0 +1,11 @@
+{
+  "brand": "PREVA Kitchen",
+  "location": "13090 Inkster Rd, Redford Township, MI 48239",
+  "sources": [
+    {"name":"Website","url":"https://prevakitchen.com/","kind":"owned"},
+    {"name":"DoorDash","url":"https://www.doordash.com/store/preva-kitchen-redford-43388119/107666947/?pickup=true","kind":"marketplace"},
+    {"name":"Uber Eats / Order Store","url":"https://www.order.store/in/store/preva-kitchen/dFUjbYXiSHWMrDLYDL9KxA","kind":"marketplace"},
+    {"name":"Grubhub","url":"https://www.grubhub.com/restaurant/preva-kitchen-13090-inkster-rd-redford/14507288","kind":"marketplace"},
+    {"name":"Toast","url":"https://order.toasttab.com/online/preva-13090-inkster-road","kind":"marketplace"}
+  ]
+}
