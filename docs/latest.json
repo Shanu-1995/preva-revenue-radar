@@ -1,23 +1,23 @@
 {
   "brand": "PREVA Kitchen",
-  "timestamp_utc": "2026-11-03T14:00:34.892664+00:00",
+  "timestamp_utc": "2026-11-04T13:59:30.236286+00:00",
   "sources": [
     {
       "name": "Website",
       "url": "https://prevakitchen.com/",
       "kind": "owned",
       "status": "ok",
-      "hash": "455259642cba8415bd258a9e257138a1cfaca94007668abd2789e3c0c36fea5a",
-      "length": 2612,
-      "excerpt": "Preva Kitchen | Restaurant in Redford Township, MI Preva Kitchen \u2014 Fresh flavor, made in Redford Delivery \u2022 Catering PREVA KITCHEN Menu Blog Careers Contact Us Order Online VIEW MENU Menu Preva Kitchen \u2013 Restaurant in Redford Township, MI Good Food Good Mood Experience the perfect blend of bold flavor, warm ambience an",
+      "hash": "adf5c6b6ecb37cb169a57072fd7b0839327043c6ec08a2c2c7a3619122eb89e8",
+      "length": 2625,
+      "excerpt": "Preva Kitchen | Restaurant in Redford Township, MI Preva Kitchen \u2014 Fresh flavor, made in Redford Delivery \u2022 Catering PREVA KITCHEN Menu Blog Careers Contact Us Order Online VIEW MENU Menu Preva Kitchen \u2013 Restaurant in Redford Township, MI Good Food Good Mood Preva Kitchen serves chef-driven comfort food, signature wing",
       "signals": [
         "$15.00",
+        "$16.00",
         "$16.50",
         "$18.00",
-        "$20.00",
         "$22.00"
       ],
-      "change": "unchanged"
+      "change": "changed"
     },
     {
       "name": "DoorDash",
