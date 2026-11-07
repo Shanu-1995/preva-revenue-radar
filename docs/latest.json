@@ -1,6 +1,6 @@
 {
   "brand": "PREVA Kitchen",
-  "timestamp_utc": "2026-11-06T14:00:55.722779+00:00",
+  "timestamp_utc": "2026-11-07T13:41:49.441714+00:00",
   "sources": [
     {
       "name": "Website",
@@ -16,7 +16,7 @@
         "$16.00",
         "$23.50"
       ],
-      "change": "changed"
+      "change": "unchanged"
     },
     {
       "name": "DoorDash",
